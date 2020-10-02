@@ -1,6 +1,6 @@
 # Blur-Image-Detection
 **The following Packages were used while developing this model -**
-        # Matplotlib (https://pypi.org/project/matplotlib/)
+        1) Matplotlib (https://pypi.org/project/matplotlib/)
         # Numpy (https://pypi.org/project/numpy/)
         # Python Image Library (https://pypi.org/project/Pillow/)
         # Tensorflow (https://pypi.org/project/tensorflow/)
